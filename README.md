@@ -14,7 +14,7 @@
 
 
 ## My Skill Set  
-<table style="border-style: hidden"><tr><td valign="top" width="33%">
+<table style="border-style: hidden"><tr><td style="border-style: hidden" valign="top" width="33%">
 
 
 
@@ -30,7 +30,7 @@
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td style="border-style: hidden" valign="top" width="33%">
 
 
 
@@ -46,7 +46,7 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td style="border-style: hidden" valign="top" width="33%">
 
 
 

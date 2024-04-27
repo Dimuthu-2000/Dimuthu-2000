@@ -1,20 +1,20 @@
 ## <div align="center">Hola, I'm Dimuthu Gunathilaka, A Freelance Developer and Designer 👨‍💻</div>  
   
 
-###### 🌐 Crafting captivating 3D web experiences using WebGL and Three.js is my forte.   
+##### 🌐 Crafting captivating 3D web experiences using WebGL and Three.js is my forte.   
   
 
-###### 🫂 Strong communicator and contribute positively to the development process.  
+##### 🫂 Strong communicator and contribute positively to the development process.  
   
 
-###### 🎓 Committed to staying ahead of the curve, actively seeking opportunities to learn new skills and explore emerging technologies  
+##### 🎓 Committed to staying ahead of the curve, actively seeking opportunities to learn new skills and explore emerging technologies  
   
 
 <br/>  
 
 
 ## My Skill Set  
-<table border-style="hidden"><tr><td valign="top" width="33%">
+<table style="border-style: hidden"><tr><td valign="top" width="33%">
 
 
 
